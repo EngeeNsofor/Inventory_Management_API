@@ -12,10 +12,10 @@
 
 ```
 {
-  "username": "ngnsofor",
+  "username": "testuser3",
+  "email": "testuser3@yahoo.com",
   "password": "testpassword3",
-  "confirm_password": "testpassword3",
-  "email": "ngnsofor@yahoo.com"
+  "confirm_password": "testpassword3"
 }
 ```
 
@@ -41,7 +41,7 @@
 
 ```
 {
-  "username": "ngnsofor",
+  "username": "testuser3",
   "password": "testpassword3"
 }
 ```
